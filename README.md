@@ -5,4 +5,4 @@ SecureWrapper
 2. chmod 755 /home/kali/secure_wrapper.py
 3. chsh -s /home/kali/secure_wrapper.py
 4. Перезагрузка
-5. 
+5. Открываем терминал и сразу открывается оболочка
